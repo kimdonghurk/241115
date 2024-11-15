@@ -1,0 +1,14 @@
+li {list-style-type: none;}
+a {text-decoration: none;}
+
+
+/************************************header*************************************/
+
+.riot-header{
+    background: rgb(23, 25, 28);
+    display: flex;
+    border: 10px solid red;
+}
+.riot-header li{
+
+}
